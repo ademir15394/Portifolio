@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
+
+body{
+    background-color:#101111;
+}
+
+.img1{
+    width: 458px;
+    margin-top: 39px;
+    margin-left: 6px;
+    float: left;
+    border-radius: 237px;
+}
+
+.txt{
+    width: 741px;
+    color: #eff1f1;
+    font-size: 35px;
+    margin-left: 502px;
+    margin-top: 161px;
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+
+.session{
+    height: 600px;
+    width: 980px;
+    margin-top: 350px;
+    margin-left: 450px;
+    background-color: #CE0A31;
+    border-radius: 60px;
+}
+
+.titulo{
+    margin-left: 345px;
+    color: #eff1f1;
+    font-size: 40px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 300;
+
+}
+
+.titulo2{
+    margin-left: 345px;
+    color: #eff1f1;
+    font-size: 40px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 300;
+
+}
+
+.cop1{
+    color:#eff1f1;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 30px;
+    margin-bottom: 55px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.site{
+    margin-top: 260px;
+}
+
+.img-site{
+    margin-left: 167px;
+}
+
+.text-site{
+    color: #eff1f1;
+    font-size: 35px;
+    margin-left: 167px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.titulo1{
+    margin-left: 618px;
+    color: #eff1f1;
+    font-size: 40px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 300;
+
+}
+
+.link{
+    color: #CE0A31;
+}
+
+.btn{
+    margin-left: 690px;
+    font-size: 30px;
+    border-radius: 30px;
+    height: 70px;
+    width: 322px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: 300;
+    text-decoration: none;
+    margin-bottom: 60px;
+}
+
+.link-btn{
+    text-decoration: none;
+    color: #070707;
+}
+
+.session1{
+    height: 600px;
+    width: 980px;
+    margin-top: 122px;
+    margin-left: 450px;
+    background-color: #6329C0;
+    border-radius: 60px;
+}
+
+.link-txt{
+    color: #eff1f1;
+}
+
+@media (max-width: 700px) {
+    .img1{
+        width: 200px;
+        margin-top: 7px;
+        margin-left: 87px;
+    }
+    .txt{
+        width: 354px;
+        font-size: 24px;
+        margin-left: 4px;
+        margin-top: 230px;
+    }
+    .session{
+        height: 642px;
+        width: 332px;
+        margin-top: 163px;
+        margin-left: 17px;
+    }
+    .session1{
+        height: 642px;
+        width: 332px;
+        margin-top: 163px;
+        margin-left: 17px;
+    }
+    .titulo{
+        margin-left: 35px;
+        font-size: 30px;
+    }
+    .cop1{
+        font-size: 21px;
+        margin-bottom: 50px;
+        margin-top: 82px;
+    }
+    .img-site{
+        margin-left: 0px;
+        width: 364px;
+    }
+    .titulo2{
+        margin-left: 110px;
+        font-size: 30px;
+    }
+    .text-site{
+        font-size: 29px;
+        margin-left: 15px;
+    }
+
+}
