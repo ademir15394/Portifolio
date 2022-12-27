@@ -136,7 +136,7 @@ body{
         margin-left: 17px;
     }
     .session1{
-        height: 642px;
+        height: 445px;
         width: 332px;
         margin-top: 163px;
         margin-left: 17px;
@@ -161,6 +161,15 @@ body{
     .text-site{
         font-size: 29px;
         margin-left: 15px;
+    }
+    .titulo1{
+        margin-left: 60px;
+    }
+    .btn{
+        margin-left: 39px;
+        font-size: 25px;
+        height: 53px;
+        width: 244px;
     }
 
 }
