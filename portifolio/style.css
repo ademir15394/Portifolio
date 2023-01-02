@@ -14,11 +14,11 @@ body{
 }
 
 .txt{
-    width: 741px;
+    width: 935px;
     color: #eff1f1;
-    font-size: 35px;
+    font-size: 33px;
     margin-left: 502px;
-    margin-top: 161px;
+    margin-top: 100px;
     font-family: 'Chakra Petch', sans-serif;
 
 }
@@ -26,7 +26,7 @@ body{
 .session{
     height: 600px;
     width: 980px;
-    margin-top: 350px;
+    margin-top: 63px;
     margin-left: 450px;
     background-color: #CE0A31;
     border-radius: 60px;
@@ -158,6 +158,11 @@ body{
     }
 
 
+}
+@media (max-width: 1468px){
+    .txt{
+        width: 700px;
+    }
 }
 
 @media (max-width: 1480px) {
@@ -481,10 +486,10 @@ body{
         margin-left: 87px;
     }
     .txt{
-        width: 354px;
+        width: 266px;
         font-size: 24px;
-        margin-left: 4px;
-        margin-top: 230px;
+        margin-left: 21px;
+        margin-top: 32px;
     }
     .session{
         height: 642px;
